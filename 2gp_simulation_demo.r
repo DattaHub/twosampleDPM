@@ -1,8 +1,9 @@
 ##################################################################
 ### R code for two-groups test with DPM-Poisson-Gamma     
-### Simualtion example as shown in Datta, Banerjee & Dunson (2023). 
+### Simulation example as shown in Datta, Banerjee & Dunson (2023). 
 ##################################################################
 
+setwd("~/GitHub/twosampleDPM")
 library(here)
 library(pracma)
 Tmax = 250
